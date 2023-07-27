@@ -1,0 +1,66 @@
+
+{
+    "articles": [
+      {
+        "title": "Breaking News 1",
+        "description": "This is the first breaking news article.",
+        "source": "CNN",
+        "publishedAt": "2023-07-27T08:00:00Z"
+      },
+      {
+        "title": "Politics Update",
+        "description": "Political event update from the capital city.",
+        "source": "BBC News",
+        "publishedAt": "2023-07-27T07:30:00Z"
+      },
+      {
+        "title": "Sports News",
+        "description": "Latest sports results and highlights.",
+        "source": "ESPN",
+        "publishedAt": "2023-07-27T07:00:00Z"
+      },
+      {
+        "title": "Technology Breakthrough",
+        "description": "New tech invention revolutionizes the industry.",
+        "source": "TechCrunch",
+        "publishedAt": "2023-07-27T06:30:00Z"
+      },
+      {
+        "title": "Entertainment Buzz",
+        "description": "Celebrity gossip and entertainment news.",
+        "source": "Entertainment Weekly",
+        "publishedAt": "2023-07-27T06:00:00Z"
+      },
+      {
+        "title": "Health and Wellness",
+        "description": "Latest health tips and wellness advice.",
+        "source": "Healthline",
+        "publishedAt": "2023-07-27T05:30:00Z"
+      },
+      {
+        "title": "Business Update",
+        "description": "Economic trends and market analysis.",
+        "source": "Bloomberg",
+        "publishedAt": "2023-07-27T05:00:00Z"
+      },
+      {
+        "title": "Science Discovery",
+        "description": "New scientific breakthrough in space exploration.",
+        "source": "National Geographic",
+        "publishedAt": "2023-07-27T04:30:00Z"
+      },
+      {
+        "title": "Environment News",
+        "description": "Updates on climate change and environmental issues.",
+        "source": "The Guardian",
+        "publishedAt": "2023-07-27T04:00:00Z"
+      },
+      {
+        "title": "World Events",
+        "description": "Major global events and international relations.",
+        "source": "Reuters",
+        "publishedAt": "2023-07-27T03:30:00Z"
+      }
+    ]
+  }
+  
